@@ -8,6 +8,15 @@
     <title>iTeach</title>
 </head>
 <body>
-    <h1>To learn, to do, to achieve</h1>
+    <section class="hero">
+        <div class="hero-text-box"> 
+            <h1 class="heading-primary">To learn, to do, to achieve</h1>
+            <p class="hero-description">Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat, totam. Eligendi aut quos libero harum dicta maxime quam dolores nisi!</p>
+        </div>
+        <div class="hero-img-box">
+            <img src="" alt="">
+        </div>
+    </section>
+   
 </body>
 </html>
